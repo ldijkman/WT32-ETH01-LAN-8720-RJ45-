@@ -1,3 +1,7 @@
+// serial monitor with ftdi sux for me garbage characters and losing connection
+// serial monitor with nano or uno serial to usb serial.read serial.write works ok 
+// https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-
+
 #include <Arduino.h>
 /*
     This sketch shows how to configure different external or internal clock sources for the Ethernet PHY
@@ -11,7 +15,7 @@
    * ETH_CLOCK_GPIO16_OUT - 50MHz clock from internal APLL output on GPIO16 - possibly an inverter is needed for LAN8720
    * ETH_CLOCK_GPIO17_OUT - 50MHz clock from internal APLL inverted output on GPIO17 - tested with LAN8720
 */
-#define ETH_CLK_MODE    ETH_CLOCK_GPIO0_IN
+#define ETH_CLK_MODE    ETH_CLOCK_GPIO0_IN  //  ETH_CLOCK_GPIO17_OUT
 
 // Pin# of the enable signal for the external crystal oscillator (-1 to disable for internal APLL source)
 #define ETH_POWER_PIN  16
