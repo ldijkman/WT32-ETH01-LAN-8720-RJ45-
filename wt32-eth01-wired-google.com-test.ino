@@ -1,5 +1,7 @@
 // serial monitor with ftdi sux for me garbage characters and losing connection
 // serial monitor with nano or uno serial to usb serial.read serial.write works ok 
+// connect to www.google.com and show htnl source on serial nonitor
+
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-
 
 #include <Arduino.h>
