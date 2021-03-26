@@ -1,0 +1,2 @@
+# WT32-ETH01-LAN-8720-RJ45-
+WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
