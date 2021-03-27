@@ -6,6 +6,8 @@
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32prog.jpg
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-
 
+// file from  https://github.com/espressif/arduino-esp32/issues/3821
+
 /*
     Copyright statement: This article is the original article of the CSDN blogger "Naisu_kun",
     which follows the CC 4.0 BY-SA copyright agreement.
