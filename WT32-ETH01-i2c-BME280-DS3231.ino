@@ -1,6 +1,6 @@
 // i used Arduino IDE Menu => Tools => Board => 'ESP32 Dev Module'
 // powerup WT32-ETH01 with IO0 pulled to ground, remove after programming and powercycle
-// used USB FTDI programmer TX->RX0, RX->TX0
+// used USB FTDI programmer TX->RX0, RX->TX0, 3.3Volt and ground
 //tested works with wt32-eth01
 //dhcp webserver
 //webpage shows button when pressed random data is displayed
