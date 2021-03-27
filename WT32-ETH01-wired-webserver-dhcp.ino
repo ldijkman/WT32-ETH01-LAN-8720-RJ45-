@@ -1,7 +1,8 @@
-tested works with wt32-eth01
-dhcp webserver wired rj45
-webpage shows button when pressed random data is displayed
-
+// tested works with wt32-eth01 LAN 8720
+// dhcp webserver wired rj45
+// webpage shows button when pressed random data is displayed
+// programming WT32-ETH01 is not going well with my FTDI usb thingy 
+// lots off errors and sometimes it programs
 
 /*
     Copyright statement: This article is the original article of the CSDN blogger "Naisu_kun",
