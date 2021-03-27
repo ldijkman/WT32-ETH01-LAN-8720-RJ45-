@@ -1,6 +1,8 @@
 //tested works with wt32-eth01
 //dhcp webserver
 //webpage shows button when pressed random data is displayed
+// mcu to ajax?     String message = "Random data: ";
+//                  message += String(random(10000)); // Get random number
 // next i2c data is printed to serial monitor for now
 // i2c BME280 temp humid milibar sensor
 // i2c DS3231 RTC realtimeclock
