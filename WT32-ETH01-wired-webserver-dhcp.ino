@@ -3,6 +3,8 @@
 // webpage shows button when pressed random data is displayed
 // programming WT32-ETH01 is not going well with my FTDI usb thingy 
 // lots off errors and sometimes it programs
+// https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32prog.jpg
+// https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-
 
 /*
     Copyright statement: This article is the original article of the CSDN blogger "Naisu_kun",
