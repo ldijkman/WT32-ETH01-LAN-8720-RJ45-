@@ -10,9 +10,13 @@ program = powerup with gpio0 pull to ground better with 10k resistor
 wt32-eth01 run powerup = gpio0 no connection to ground
 
 serial monitor with ftdi no good
+--------------
+better put a resistor in IO0 to ground?
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32prog.jpg">
 
+better put a resistor in IO0 to ground?
+--------------
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01.jpeg">
 
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01_V2.schematic.pdf
