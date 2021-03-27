@@ -2,6 +2,10 @@
 WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
 -----------
 # struggling to find some info / examples for WT32-ETH01 Wireless-tag
+
+if you know some examples / usefull info 
+
+share it ?   https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/discussions
 ------------
 my ftdi programmer is not always succesfull with programming = used ESP32 Dev Module settings
 
