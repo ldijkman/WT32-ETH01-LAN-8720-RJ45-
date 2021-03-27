@@ -1,4 +1,4 @@
-// i used Arduino IDE Menu => Tools => Board => 'ESP Dev Module'
+// i used Arduino IDE Menu => Tools => Board => 'ESP32 Dev Module'
 // powerup WT32-ETH01 with IO0 pulled to ground, remove after programming and powercycle
 // used USB FTDI programmer TX->RX0, RX->TX0
 //tested works with wt32-eth01
