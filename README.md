@@ -1,6 +1,8 @@
 # WT32-ETH01-LAN-8720-RJ45-
 WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
-
+-----------
+# struggling to find some info / examples for WWT32-ETH01
+------------
 my ftdi programmer is not always succesfull with programming = used ESP32 Dev Module settings
 
 FTDI as serial monitor is also no good losing connection no data => uno nano as serial to usb monitor shows all the serial data
