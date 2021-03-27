@@ -9,13 +9,15 @@
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-BME280-DS3231.ino
 
 /*
-    Copyright statement: This article is the original article of the CSDN blogger "Naisu_kun",
+    Copyright statement: Part of This article is the original article of the CSDN blogger "Naisu_kun",
     which follows the CC 4.0 BY-SA copyright agreement.
     For reprinting, please attach the original source link and this statement.
 
     Original link：https://blog.csdn.net/Naisu_kun/article/details/88572129
     - Explanation of the code and other parameters: see the link above.
     - Note: Original language: Chinese (You can use the Google translator to read English, or another language)
+    
+    Part of This article is added by luberth dijkman
 
 */
 
