@@ -5,9 +5,9 @@ WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
 ------------
 my ftdi programmer is not always succesfull with programming = used ESP32 Dev Module settings
 
-## strange another same FTDI programmer is doing better with programming
+### strange another same FTDI programmer is doing better with programming
 
-## but still some garbage char with serial monitor on www.google.com test, not with nano/uno serial to usb  monitor
+### but still some garbage char with serial monitor on https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-wired-google.com-test.ino test, not with nano/uno serial to usb  monitor
 
 FTDI as serial monitor is also no good losing connection no data => uno nano as serial to usb monitor shows all the serial data
 
