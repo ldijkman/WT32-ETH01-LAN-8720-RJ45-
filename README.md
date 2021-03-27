@@ -12,3 +12,5 @@ wt32-eth01 run powerup = gpio0 no connection to ground
 serial monitor with ftdi no good
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32prog.jpg">
+
+<img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01.jpeg">
