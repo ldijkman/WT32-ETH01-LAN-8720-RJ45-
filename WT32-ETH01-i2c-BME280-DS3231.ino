@@ -5,6 +5,7 @@
 // i2c DS3231 RTC 
 // I2C_SCL 32    // WT32-ETH01 CFG    = Gpio 32      non standard i2c adress 
 // I2C_SDA 33    // WT32-ETH01 485_EN = Gpio 33      non standard i2c adress
+// https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-BME280-DS3231.ino
 
 /*
     Copyright statement: This article is the original article of the CSDN blogger "Naisu_kun",
