@@ -2,8 +2,8 @@
 //dhcp webserver
 //webpage shows button when pressed random data is displayed
 // next i2c data is printed to serial monitor for now
-// i2c BME280 temp humid bar sensor
-// i2c DS3231 RTC 
+// i2c BME280 temp humid milibar sensor
+// i2c DS3231 RTC realtimeclock
 // I2C_SCL 32    // WT32-ETH01 CFG    = Gpio 32      non standard i2c adress 
 // I2C_SDA 33    // WT32-ETH01 485_EN = Gpio 33      non standard i2c adress
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-BME280-DS3231.ino
