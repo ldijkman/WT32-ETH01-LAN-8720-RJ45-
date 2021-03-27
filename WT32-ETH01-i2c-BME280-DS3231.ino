@@ -1,6 +1,7 @@
 //tested works with wt32-eth01
 //dhcp webserver
 //webpage shows button when pressed random data is displayed
+// next i2c data is printed to serial monitor for now
 // i2c BME280 temp humid bar sensor
 // i2c DS3231 RTC 
 // I2C_SCL 32    // WT32-ETH01 CFG    = Gpio 32      non standard i2c adress 
