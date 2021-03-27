@@ -1,5 +1,5 @@
 tested works with wt32-eth01
-dhcp webserver
+dhcp webserver wired rj45
 webpage shows button when pressed random data is displayed
 
 
