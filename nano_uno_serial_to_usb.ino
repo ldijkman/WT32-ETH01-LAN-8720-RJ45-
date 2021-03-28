@@ -1,3 +1,6 @@
+// oh not correct there shoud be some voltage level in the rx tx connection
+// the nano is 5volt and the wt32-eth01 is 3.3volt
+
 // ftdi serial monitor loses track/connection with wt32-eth01
 // a nano uno serial to usb shows all the serial data on serial monitor
 //
