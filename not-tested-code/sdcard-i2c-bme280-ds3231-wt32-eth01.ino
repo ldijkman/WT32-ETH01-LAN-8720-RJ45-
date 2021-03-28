@@ -3,8 +3,10 @@
 // SD_MOSI    15
 // SD_SCLK    14
 // SD_CS      12
-//dhcp webserver
-//webpage shows button when pressed random data is displayed
+//
+// dhcp webserver
+// webpage shows button when pressed random data is displayed
+//
 // i2c BME280 temp humid bar sensor
 // i2c DS3231 RTC 
 // I2C_SCL 32    // WT32-ETH01 CFG    = Gpio 32      non standard i2c adress 
