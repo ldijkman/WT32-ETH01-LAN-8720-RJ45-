@@ -46,13 +46,13 @@ grey     RX0
 
 program WT32-ETH01 with ESP8266-01 programmer
 
-red      3.3 Volt
+lefttop-------red-------3.3 Volt
 
-purple   ground
+rigtbottom----purple---ground
 
-white    TX0
+rigttop-------white----TX0
 
-grey     RX0
+leftbottom----grey-----RX0
 
 --------------------
 
