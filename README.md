@@ -1,5 +1,8 @@
 # WT32-ETH01-LAN-8720-RJ45-
 WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
+
+WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack
+
 -----------
 # struggling to find some info / examples for WT32-ETH01 Wireless-tag
 
@@ -44,5 +47,13 @@ https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-wired
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-wired-webserver-dhcp.ino
 
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-BME280-DS3231.ino
+
+
+-------------
+Less Wires => power over ethernet 
+
+10 Euro PoE power over ethernet injector https://www.google.com/search?q=PoE+injector
+
+3 Euro PoE splitter 5v  https://www.google.com/search?q=PoE+splitter+5v
 
 
