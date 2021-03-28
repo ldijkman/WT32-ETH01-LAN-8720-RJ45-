@@ -1,5 +1,4 @@
-# WT32-ETH01-LAN-8720-RJ45-
-WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
+# WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
 
 WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=WT32-ETH01
 
@@ -22,7 +21,7 @@ program = powerup with gpio0 pull to ground better with 10k resistor
 
 wt32-eth01 run powerup = gpio0 no connection to ground
 
-serial monitor with ftdi no good
+
 --------------
 programming mode = better put a resistor in IO0 to ground?
 
