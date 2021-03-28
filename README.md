@@ -30,6 +30,11 @@ programming mode = better put a resistor in IO0 to ground?
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32prog.jpg">
 
 programming mode = better put a resistor in IO0 to ground?
+
+If someone programs gpio0 as output and high when connected to ground blows the gpio0 pin
+
+So thats why its better to use a resistor on gpio0 pull to ground
+
 --------------
 
 program WT32-ETH01 with ESP8266-01 programmer
