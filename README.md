@@ -37,7 +37,7 @@ white    TX0
 
 grey     RX0
 
-https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg
+<img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg">
 
 red      3.3 Volt
 
