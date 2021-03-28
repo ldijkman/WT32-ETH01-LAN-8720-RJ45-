@@ -47,6 +47,10 @@ white    TX0
 
 grey     RX0
 
+Maybe could also use the gpio0 pull to ground from this 8 pin female connector
+
+--------
+
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg">
 
 program WT32-ETH01 with ESP8266-01 programmer
