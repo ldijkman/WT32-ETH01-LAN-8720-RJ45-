@@ -1,3 +1,5 @@
+// https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/not-tested-code/sdcard-i2c-bme280-ds3231-wt32-eth01.ino
+//
 // added bit of sd card code not tested yet wt32-eth01
 // SD_MISO     2
 // SD_MOSI    15
