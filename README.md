@@ -62,3 +62,14 @@ Less Wires => power over ethernet cable is not included on WT32-ETH01, but you c
 3 Euro PoE power over ethernet splitter 5v  https://www.google.com/search?q=PoE+splitter+5v
 
 
+--------
+
+things to try
+
+example i2c connection == Done & tested 
+
+test example howto connect SD card reader/writer
+
+test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2c encoder)
+
+
