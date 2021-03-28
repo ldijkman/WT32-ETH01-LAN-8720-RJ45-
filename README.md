@@ -50,10 +50,10 @@ https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-B
 
 
 -------------
-Less Wires => power over ethernet 
+Less Wires => power over ethernet cable is not included on WT32-ETH01, but you can do it yourself
 
 10 Euro PoE power over ethernet injector https://www.google.com/search?q=PoE+injector
 
-3 Euro PoE splitter 5v  https://www.google.com/search?q=PoE+splitter+5v
+3 Euro PoE power over ethernet splitter 5v  https://www.google.com/search?q=PoE+splitter+5v
 
 
