@@ -30,7 +30,7 @@ programming mode = better put a resistor in IO0 to ground?
 programming mode = better put a resistor in IO0 to ground?
 --------------
 
-ESP8266-01 programmer
+program WT32-ETH01 with ESP8266-01 programmer
 
 red      3.3 Volt
 
@@ -42,7 +42,7 @@ grey     RX0
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg">
 
-ESP8266-01 programmer
+program WT32-ETH01 with ESP8266-01 programmer
 
 red      3.3 Volt
 
