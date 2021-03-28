@@ -1,7 +1,7 @@
 # WT32-ETH01-LAN-8720-RJ45-
 WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
 
-WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack
+WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=WT32-ETH01
 
 -----------
 # struggling to find some info / examples for WT32-ETH01 Wireless-tag
@@ -36,6 +36,8 @@ https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01_V2.sc
 
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01.png">
+
+poor documents, why no mention of what is analog pins in pinout
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01_pinout.jpg">
 
