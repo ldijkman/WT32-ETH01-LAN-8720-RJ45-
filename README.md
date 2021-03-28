@@ -3,11 +3,13 @@
 WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=WT32-ETH01
 
 -----------
+
 Struggling to find some info / examples for WT32-ETH01 Wireless-tag
 
 if you know some examples / usefull info 
 
 share it ?   https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/discussions
+
 ------------
 my ftdi programmer is not always succesfull with programming = used 'ESP32 Dev Module' settings
 
