@@ -3,7 +3,7 @@
 WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=WT32-ETH01
 
 -----------
-### Struggling to find some info / examples for WT32-ETH01 Wireless-tag
+Struggling to find some info / examples for WT32-ETH01 Wireless-tag
 
 if you know some examples / usefull info 
 
@@ -11,11 +11,11 @@ share it ?   https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/discussions
 ------------
 my ftdi programmer is not always succesfull with programming = used 'ESP32 Dev Module' settings
 
-### strange another same FTDI programmer is doing better with programming
+strange another same FTDI programmer is doing better with programming https://www.google.com/search?q=FTDI+programmer
 
-### but still some garbage char with FTDI serial monitor on https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-wired-google.com-test.ino test, not with nano/uno serial to usb  monitor
+now using a ESP8266-01 female 2row 8pin programmer with ch340 chip https://www.google.com/search?q=esp8266-01+programmer+ch340G
 
-FTDI as serial monitor is also no good losing connection no data => uno nano as serial to usb monitor shows all the serial data
+
 
 program = powerup with gpio0 pull to ground better with 10k resistor
 
