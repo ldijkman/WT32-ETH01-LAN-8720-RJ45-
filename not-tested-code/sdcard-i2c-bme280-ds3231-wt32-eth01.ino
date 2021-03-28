@@ -1,6 +1,7 @@
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/not-tested-code/sdcard-i2c-bme280-ds3231-wt32-eth01.ino
 //
-// added bit of sd card code not tested yet wt32-eth01
+// added bit of sd card code for wt32-eth01
+// prints directory listing / of sdcard on startup
 // SD_MISO     2
 // SD_MOSI    15  // maybe use an inputonly pin for mosi
 // SD_SCLK    14
@@ -177,6 +178,10 @@ void setup() {
         uint32_t cardSize = SD.cardSize() / (1024 * 1024);
         String str = "SDCard Size: " + String(cardSize) + "MB";
         Serial.println(str);
+
+        File root;
+        root = SD.open("/");         // list files on sdcard
+        printDirectory(root, 0);
     }
 
   WiFi.onEvent(WiFiEvent);
@@ -287,4 +292,43 @@ float TempCelsius;
 
   
   server.handleClient(); // Handling requests from clients
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void printDirectory(File dir, int numTabs) {
+  while (true) {
+
+    File entry =  dir.openNextFile();
+    if (! entry) {
+      // no more files
+      break;
+    }
+    for (uint8_t i = 0; i < numTabs; i++) {
+      Serial.print('\t');
+    }
+    Serial.print(entry.name());
+    if (entry.isDirectory()) {
+      Serial.println("/");
+      printDirectory(entry, numTabs + 1);
+    } else {
+      // files have sizes, directories do not
+      Serial.print("\t\t");
+      Serial.println(entry.size(), DEC);
+    }
+    entry.close();
+  }
 }
