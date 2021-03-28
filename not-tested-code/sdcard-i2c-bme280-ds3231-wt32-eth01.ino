@@ -2,7 +2,7 @@
 //
 // added bit of sd card code not tested yet wt32-eth01
 // SD_MISO     2
-// SD_MOSI    15
+// SD_MOSI    15  // maybe use an inputonly pin for mosi
 // SD_SCLK    14
 // SD_CS      12
 //
