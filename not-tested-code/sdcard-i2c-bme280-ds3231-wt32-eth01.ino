@@ -1,4 +1,8 @@
 // added bit of sd card code not tested yet wt32-eth01
+// SD_MISO     2
+// SD_MOSI    15
+// SD_SCLK    14
+// SD_CS      12
 //dhcp webserver
 //webpage shows button when pressed random data is displayed
 // i2c BME280 temp humid bar sensor
