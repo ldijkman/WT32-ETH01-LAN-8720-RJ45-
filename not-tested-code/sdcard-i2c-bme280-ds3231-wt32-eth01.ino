@@ -1,5 +1,7 @@
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/not-tested-code/sdcard-i2c-bme280-ds3231-wt32-eth01.ino
 //
+// https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/raw/main/wt32prog.jpg
+//
 // added bit of sd card code for wt32-eth01
 // prints directory listing / and size in MB of sdcard on startup
 // SD_MISO     2
