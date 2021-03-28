@@ -30,9 +30,7 @@ programming mode = better put a resistor in IO0 to ground?
 
 programming mode = better put a resistor in IO0 to ground?
 --------------
-<img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01.jpeg">
 
-https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01_V2.schematic.pdf
 
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01.png">
@@ -42,6 +40,8 @@ poor documentation, why no mention of what is analog pins in pinout
 chip used wt32-s1 http://www.wireless-tag.com/portfolio/wt32-s1/
 
 more i/o info wt32-s1 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-S1-DataSheet-V1.1.pdf
+
+schematic https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01_V2.schematic.pdf
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01_pinout.jpg">
 
