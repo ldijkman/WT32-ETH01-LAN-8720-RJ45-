@@ -48,9 +48,9 @@ program WT32-ETH01 with ESP8266-01 programmer
 
 lefttop-------red-------3.3 Volt
 
-rigtbottom----purple---ground
+rightbottom---purple---ground
 
-rigttop-------white----TX0
+righttop------white----TX0
 
 leftbottom----grey-----RX0
 
