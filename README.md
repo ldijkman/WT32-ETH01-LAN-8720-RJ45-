@@ -1,4 +1,4 @@
-# WT32-ETH01 LAN 8720 RJ45 wired  Wireless-tag
+# WT32-ETH01 LAN 8720 RJ45 ESP32 wired  Wireless-tag
 
 WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=WT32-ETH01
 
