@@ -3,6 +3,16 @@
 // connect to www.google.com and show htnl source on serial nonitor
 
 // https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-
+/*
+   Copyright 2021 Dirk Luberth Dijkman Bangert 30 1619GJ Andijk The Netherlands
+
+  GNU General Public License,
+  which basically means that you may freely copy, change, and distribute it,
+  but you may not impose any restrictions on further distribution,
+  and you must make the source code available.
+
+  All above must be included in any redistribution
+*/
 
 #include <Arduino.h>
 /*
