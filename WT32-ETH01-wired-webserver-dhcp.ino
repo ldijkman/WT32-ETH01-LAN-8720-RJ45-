@@ -17,6 +17,14 @@
     - Explanation of the code and other parameters: see the link above.
     - Note: Original language: Chinese (You can use the Google translator to read English, or another language)
 
+   Copyright 2021 Dirk Luberth Dijkman Bangert 30 1619GJ Andijk The Netherlands
+
+  GNU General Public License,
+  which basically means that you may freely copy, change, and distribute it,
+  but you may not impose any restrictions on further distribution,
+  and you must make the source code available.
+
+  All above must be included in any redistribution
 */
 
 #include <ETH.h> // quote to use ETH
