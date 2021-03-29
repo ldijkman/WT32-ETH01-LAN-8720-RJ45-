@@ -55,7 +55,7 @@
 // normally used pins for SPI are not availeble on WT32-ETH01
 // saw this use other pins for SPI at  https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE/blob/master/example/eth/eth.ino
 #define SD_MISO     2       // SD-Card
-#define SD_MOSI    15       // SD-Card
+#define SD_MOSI    15       // SD-Card maybe use an input only pin for mosi to free an in/out pin
 #define SD_SCLK    14       // SD-Card
 #define SD_CS      12       // SD-Card
 
