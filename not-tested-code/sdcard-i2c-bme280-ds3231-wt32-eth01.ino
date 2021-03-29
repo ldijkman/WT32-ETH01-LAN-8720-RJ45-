@@ -4,6 +4,7 @@
 //
 // added bit of sd card code for wt32-eth01
 // prints directory listing / and size in MB of sdcard on startup
+// not standard SPI pins because they are not availeble on WT32-ETH01
 // SD_MISO     2
 // SD_MOSI    15  // maybe use an inputonly pin for mosi
 // SD_SCLK    14
