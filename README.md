@@ -60,7 +60,7 @@ program WT32-ETH01 with ESP8266-01 programmer https://www.google.com/search?q=es
 - powerup with switch to PROG program == programming mode
 - powerup with switch to UART monitor == run / monitor mode
 
-<img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-esp01-programmer.png">
+<img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-esp01-programmer.png" width="50%" height="50%">
 
 --------------------
 
