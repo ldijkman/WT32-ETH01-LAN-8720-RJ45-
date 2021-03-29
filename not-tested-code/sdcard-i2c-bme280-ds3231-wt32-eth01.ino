@@ -79,12 +79,12 @@ char dayname[7][12] = {"Sunday ", "Monday ", "Tuesday ", "Wednesday ", "Thursday
 
 
 #define ETH_ADDR        1
-#define ETH_POWER_PIN   16//-1 //16 // Do not use it, it can cause conflict during the software reset.
-#define ETH_POWER_PIN_ALTERNATIVE 16 //17
+#define ETH_POWER_PIN   16  // -1             // ??? Do not use it, it can cause conflict during the software reset.
+#define ETH_POWER_PIN_ALTERNATIVE 16 // 17    // ???
 #define ETH_MDC_PIN    23
 #define ETH_MDIO_PIN   18
 #define ETH_TYPE       ETH_PHY_LAN8720
-#define ETH_CLK_MODE    ETH_CLOCK_GPIO17_OUT // ETH_CLOCK_GPIO0_IN
+#define ETH_CLK_MODE    ETH_CLOCK_GPIO17_OUT // ETH_CLOCK_GPIO0_IN // ???
 
 IPAddress local_ip(192, 168, 178, 112);
 IPAddress gateway(192, 168, 1, 1);
@@ -133,13 +133,13 @@ void handleRoot() // Callback
 void handleAjax() // Callback
 {
   String message = "Random data: ";
-  message += String(random(10000)); // Get random number
+  message += String(random(10000)); // Get random number  // could do millis(); also
   server.send(200, "text/plain", message); // Send message back to page
 }
 
 static bool eth_connected = false;
 
-void WiFiEvent(WiFiEvent_t event)
+void WiFiEvent(WiFiEvent_t event)                // strange WiFiEvent? we are wired?
 {
   switch (event) {
     case SYSTEM_EVENT_ETH_START:
@@ -305,7 +305,7 @@ float TempCelsius;
 
 
   
-  server.handleClient(); // Handling requests from clients
+  server.handleClient(); // Handling web requests from clients
 }
 
 
@@ -322,7 +322,7 @@ float TempCelsius;
 
 
 
-
+// from arduino SD card example listfiles
 void printDirectory(File dir, int numTabs) {
   while (true) {
 
