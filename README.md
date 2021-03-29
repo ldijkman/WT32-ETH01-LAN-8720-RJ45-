@@ -93,6 +93,10 @@ https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-B
 
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/not-tested-code/sdcard-i2c-bme280-ds3231-wt32-eth01.ino
 
+-----------
+- Install the ESP32 Board in Arduino IDE in less than 1 minute (Windows, Mac OS X, and Linux)
+- https://youtu.be/mBaS3YnqDaU
+- 
 - Board settings i used
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/Board_Settings.png">
 
