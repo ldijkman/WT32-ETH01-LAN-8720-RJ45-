@@ -59,10 +59,12 @@
 #define SD_SCLK    14       // SD-Card
 #define SD_CS      12       // SD-Card
 
+// DS3231 i2c RTC realtimeclock
 #include "RTClib.h" // https://github.com/adafruit/RTClib
 RTC_DS3231 rtc;    // download zip from above and install library from zip
 // Sketch=>include library=>Add ZIP Library
 
+// BME280 i2c temp humid milibar sensor
 #include <Adafruit_Sensor.h>  // used zip from https://github.com/adafruit/Adafruit_Sensor 
 #include <Adafruit_BME280.h>  // used zip from https://github.com/adafruit/Adafruit_BME280_Library
 // Sketch=>include library=>Add ZIP Library
