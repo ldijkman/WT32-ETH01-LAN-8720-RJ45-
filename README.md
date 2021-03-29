@@ -21,7 +21,7 @@ now using a ESP8266-01 female 2row 8pin programmer with ch340 chip https://www.g
 
 program = wt32-eth01 powerup with gpio0 pull to ground (better with 10k resistor?)
 
-run = wt32-eth01 powerup = gpio0 NO connection to ground
+run / monitor == wt32-eth01 powerup = gpio0 NO connection to ground
 
 
 --------------
