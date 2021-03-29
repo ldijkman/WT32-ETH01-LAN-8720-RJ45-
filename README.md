@@ -4,7 +4,7 @@ WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=
 
 -----------
 
-Struggling to find some info / examples for WT32-ETH01 Wireless-tag
+Struggling to find some info / Arduino IDE examples for WT32-ETH01 Wireless-tag
 
 if you know some examples / usefull info 
 
