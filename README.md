@@ -37,7 +37,7 @@ So thats why its better to use a resistor on gpio0 pull to ground
 
 --------------
 
-program WT32-ETH01 with ESP8266-01 programmer https://www.google.com/search?q=esp8266-01+programmer+ch340G
+program WT32-ETH01 with ESP-01 / ESP8266-01 programmer https://www.google.com/search?q=esp8266-01+programmer+ch340G
 
 - red      3.3 Volt
 - purple   ground
@@ -50,7 +50,7 @@ program WT32-ETH01 with ESP8266-01 programmer https://www.google.com/search?q=es
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg" width="30%" height="30%"><img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/eps8266-01-pinout.png">
 
-program WT32-ETH01 with ESP8266-01 programmer https://www.google.com/search?q=esp8266-01+programmer+ch340G
+program WT32-ETH01 with ESP-01 / ESP8266-01 programmer https://www.google.com/search?q=esp8266-01+programmer+ch340G
 
 - lefttop---------3.3 Volt
 - leftbottom-----RX0
