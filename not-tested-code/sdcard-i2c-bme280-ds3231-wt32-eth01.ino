@@ -45,13 +45,17 @@
 #include <SD.h>
 #include <Wire.h>
 
+// i2c wire.h
 #define I2C_SCL    32    // WT32-ETH01 CFG    = Gpio 32      non standard i2c adress 
 #define I2C_SDA    33    // WT32-ETH01 485_EN = Gpio 33      non standard i2c adress
 
-#define SD_MISO     2
-#define SD_MOSI    15
-#define SD_SCLK    14
-#define SD_CS      12
+// SD-Card
+// normally used pins for SPI are not availeble on WT32-ETH01
+// saw this use other pins for SPI at  https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE/blob/master/example/eth/eth.ino
+#define SD_MISO     2       // SD-Card
+#define SD_MOSI    15       // SD-Card
+#define SD_SCLK    14       // SD-Card
+#define SD_CS      12       // SD-Card
 
 #include "RTClib.h" // https://github.com/adafruit/RTClib
 RTC_DS3231 rtc;    // download zip from above and install library from zip
