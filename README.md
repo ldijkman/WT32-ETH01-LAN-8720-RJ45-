@@ -39,14 +39,10 @@ So thats why its better to use a resistor on gpio0 pull to ground
 
 program WT32-ETH01 with ESP8266-01 programmer
 
-red      3.3 Volt
-
-purple   ground
-
-white    TX0
-
-grey     RX0
-
+- red      3.3 Volt
+- purple   ground
+- white    TX0
+- grey     RX0
 - Connect programmer Gpio0 to WT32-ETH01 Gpio0 
 - powerup with switch to PROG program == programming mode
 - powerup with switch to UART monitor == run / monitor mode
@@ -56,14 +52,10 @@ grey     RX0
 
 program WT32-ETH01 with ESP8266-01 programmer
 
-lefttop-------red-------3.3 Volt
-
-rightbottom---purple---ground
-
-righttop------white----TX0
-
-leftbottom----grey-----RX0
-
+- lefttop-------red-------3.3 Volt
+- rightbottom---purple---ground
+- righttop------white----TX0
+- leftbottom----grey-----RX0
 - Connect programmer Gpio0 to WT32-ETH01 Gpio0 
 - powerup with switch to PROG program == programming mode
 - powerup with switch to UART monitor == run / monitor mode
