@@ -1,4 +1,6 @@
-tested a bit
+tested a bit    
+
+DHCP IP adres is printed to serial monitor
 
 i2c ds3231 rtc
 
