@@ -26,8 +26,9 @@
     Original link：https://blog.csdn.net/Naisu_kun/article/details/88572129
     - Explanation of the code and other parameters: see the link above.
     - Note: Original language: Chinese (You can use the Google translator to read English, or another language)
-
-  https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE/blob/master/example/eth/eth.ino
+    
+    - Bits of SD card Code form:
+      https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE/blob/master/example/eth/eth.ino
 
    Copyright 2021 Dirk Luberth Dijkman Bangert 30 1619GJ Andijk The Netherlands
 
