@@ -62,6 +62,11 @@ program WT32-ETH01 with ESP-01 / ESP8266-01 programmer https://www.google.com/se
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-esp01-programmer.png" width="50%" height="50%"><img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/eps8266-01-pinout.png">
 
+- usb to esp-01 adapter programmer
+- Hmmm, looks like no resistor switch gpio0 to ground  
+- https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/USB%20to%20ESP-01%20Adapter%20schematic.pdf
+
+
 --------------------
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_ETH01.png">
@@ -76,9 +81,6 @@ schematic https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_E
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01_pinout.jpg">
 
-usb to esp-01 adapter programmer
-
-Hmmm, looks like no resistor switch gpio0 to ground  https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/USB%20to%20ESP-01%20Adapter%20schematic.pdf
 
 
 # Arduino IDE WT32-ETH01 ino files  on  this github
