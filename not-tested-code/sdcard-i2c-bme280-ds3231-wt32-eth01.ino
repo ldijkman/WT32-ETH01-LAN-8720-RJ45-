@@ -47,7 +47,7 @@
 #include <SD.h>
 #include <Wire.h>
 
-// i2c wire.h
+// i2c wire.h normally used i2c pins are not availeble on WT32-ETH01 so use other pins for i2c
 #define I2C_SCL    32    // WT32-ETH01 CFG    = Gpio 32      non standard i2c adress 
 #define I2C_SDA    33    // WT32-ETH01 485_EN = Gpio 33      non standard i2c adress
 
