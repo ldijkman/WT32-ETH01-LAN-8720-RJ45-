@@ -109,6 +109,12 @@ test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2
 
 replace the arduino mega with ethernetshield http://arduino.tk:8888/HC.htm?file=27-3-21.CSV
 
+the mega2560 with uno/mega ethernetshield W5100 did not work with cheap longer ethernet cables
+
+the WT32-ETH01 works with cheap longer ethernet cables
+
+
+
 https://github.com/sponsors/ldijkman
 
 
