@@ -184,13 +184,13 @@ void setup() {
   pinMode(ETH_POWER_PIN_ALTERNATIVE, OUTPUT);
   digitalWrite(ETH_POWER_PIN_ALTERNATIVE, HIGH);
   Serial.begin(115200);
-  delay(2500);
+  delay(2500);          // little delay otherwise next printline is not done, because serial begin is not completed or something alike
   Serial.println("hello");
 
   Wire.begin(I2C_SDA, I2C_SCL);                               // start i2c on non stndard i2c pins
 
-    SPI.begin(SD_SCLK, SD_MISO, SD_MOSI, SD_CS);
-    if (!SD.begin(SD_CS)) {
+    SPI.begin(SD_SCLK, SD_MISO, SD_MOSI, SD_CS);             // SPI for SDcard
+    if (!SD.begin(SD_CS)) {                                  // SDcard
         Serial.println("SDCard MOUNT FAIL");
     } else {
         uint32_t cardSize = SD.cardSize() / (1024 * 1024);
@@ -198,11 +198,11 @@ void setup() {
         Serial.println(str);
 
         File root;
-        root = SD.open("/");         // list files on sdcard
+        root = SD.open("/");         // list files on SDcard
         printDirectory(root, 0);
     }
 
-  WiFi.onEvent(WiFiEvent);
+  WiFi.onEvent(WiFiEvent);             // WiFi ????
 
   ETH.begin(ETH_ADDR, ETH_POWER_PIN, ETH_MDC_PIN, ETH_MDIO_PIN, ETH_TYPE, ETH_CLK_MODE); // Enable ETH
 
