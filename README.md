@@ -113,7 +113,9 @@ the mega2560 with uno/mega ethernetshield W5100 did not work with cheap longer e
 the WT32-ETH01 works with cheap longer ethernet cables
 
 
+---------------
 
-https://github.com/sponsors/ldijkman
+## A Penny for Sharing My Thoughts?
+www.paypal.me/LDijkman
 
 
