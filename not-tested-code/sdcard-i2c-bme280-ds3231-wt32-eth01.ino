@@ -31,6 +31,7 @@
       https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE/blob/master/example/eth/eth.ino
 
    Copyright 2021 Dirk Luberth Dijkman Bangert 30 1619GJ Andijk The Netherlands
+   https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-
 
   GNU General Public License,
   which basically means that you may freely copy, change, and distribute it,
