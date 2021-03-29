@@ -47,9 +47,9 @@ white    TX0
 
 grey     RX0
 
-- Connect Gpio0 to Gpio0 
-- powerup with switch to program == programming mode
-- powerup with switch to monitor == run / monitor mode
+- Connect programmer Gpio0 to WT32-ETH01 Gpio0 
+- powerup with switch to PROG program == programming mode
+- powerup with switch to UART monitor == run / monitor mode
 --------
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg" width="30%" height="30%"><img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/eps8266-01-pinout.png">
@@ -64,9 +64,9 @@ righttop------white----TX0
 
 leftbottom----grey-----RX0
 
-- Connect Gpio0 to Gpio0 
-- powerup with switch to program == programming mode
-- powerup with switch to monitor == run / monitor mode
+- Connect programmer Gpio0 to WT32-ETH01 Gpio0 
+- powerup with switch to PROG program == programming mode
+- powerup with switch to UART monitor == run / monitor mode
 
 --------------------
 
