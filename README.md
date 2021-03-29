@@ -52,6 +52,7 @@ Maybe could also use the gpio0 pull to ground from this 8 pin female connector
 --------
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg">
+<img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/eps8266-01-pinout.png">
 
 program WT32-ETH01 with ESP8266-01 programmer
 
