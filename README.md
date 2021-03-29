@@ -47,8 +47,9 @@ white    TX0
 
 grey     RX0
 
-Maybe could also use the gpio0 pull to ground from this 8 pin female connector
-
+- Connect Gpio0 to Gpio0 
+- powerup with switch to program == programming mode
+- powerup with switch to monitor == run / monitor mode
 --------
 
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/esp8266-01-ch340g-programmer.jpg" width="30%" height="30%"><img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/eps8266-01-pinout.png">
@@ -62,6 +63,10 @@ rightbottom---purple---ground
 righttop------white----TX0
 
 leftbottom----grey-----RX0
+
+- Connect Gpio0 to Gpio0 
+- powerup with switch to program == programming mode
+- powerup with switch to monitor == run / monitor mode
 
 --------------------
 
