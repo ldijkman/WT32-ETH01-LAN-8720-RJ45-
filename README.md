@@ -52,10 +52,10 @@ program WT32-ETH01 with ESP8266-01 programmer https://www.google.com/search?q=es
 
 program WT32-ETH01 with ESP8266-01 programmer https://www.google.com/search?q=esp8266-01+programmer+ch340G
 
-- lefttop-------red-------3.3 Volt
-- rightbottom---purple---ground
-- righttop------white----TX0
-- leftbottom----grey-----RX0
+- lefttop---------3.3 Volt
+- rightbottom-----ground
+- righttop-------TX0
+- leftbottom-----RX0
 - Connect programmer Gpio0 to WT32-ETH01 Gpio0 
 - powerup with switch to PROG program == programming mode
 - powerup with switch to UART monitor == run / monitor mode
