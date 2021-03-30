@@ -15,11 +15,11 @@ if you know some examples / usefull info
 share it ?   https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/discussions
 
 ------------
-my ftdi programmer is not always succesfull with programming = i used board 'ESP32 Dev Module' settings
+my FTDI programmer is not always succesfull with programming = i used board 'ESP32 Dev Module' settings
 
 strange another same FTDI programmer is doing better with programming https://www.google.com/search?q=FTDI+programmer
 
-now using a ESP8266-01 female 2row 8pin programmer with ch340 chip https://www.google.com/search?q=esp8266-01+programmer+ch340G
+NOW using a ESP-01 / ESP8266-01 female 8pin/2row  programmer with ch340 chip https://www.google.com/search?q=ESP-01+ch340G
 
 
 
