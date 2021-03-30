@@ -121,3 +121,6 @@ void loop() {
   delay(10000);
    Serial.print("3");
 }
+
+// A Penny for Sharing My Thoughts?
+// www.paypal.me/LDijkman
