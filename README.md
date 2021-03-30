@@ -5,7 +5,9 @@
 
 - Buy it from manufacturer
 - 1 Piece or a Gazillion
-http://www.wireless-tag.com/portfolio/wt32-eth01/
+-- http://www.wireless-tag.com/portfolio/wt32-eth01/
+-- https://wireless-tag.en.alibaba.com/
+
 -----------
 
 Struggling to find some info / Arduino IDE examples for WT32-ETH01 Wireless-tag
