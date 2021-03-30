@@ -17,9 +17,9 @@ if you know some examples / usefull info
 share it ?   https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/discussions
 
 ------------
-my FTDI programmer is not always succesfull with programming = i used board 'ESP32 Dev Module' settings
+MY FTDI programmer is not always succesfull with programming = i used board 'ESP32 Dev Module' settings
 
-strange another same FTDI programmer is doing better with programming https://www.google.com/search?q=FTDI+programmer
+STRANGE another same FTDI programmer is doing better with programming https://www.google.com/search?q=FTDI+programmer
 
 NOW using a ESP-01 / ESP8266-01 female 8pin/2row-4pin  programmer with ch340 chip https://www.google.com/search?q=ESP-01+CH340G
 
