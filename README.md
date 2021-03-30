@@ -119,7 +119,7 @@ test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2
 - - https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 - - - https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
 -
-- Board settings i used
+- Board settings i used (Arduino IDE Raspberry Pi LINUX Version)
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/Board_Settings.png">
 
 -------------
