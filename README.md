@@ -86,15 +86,27 @@ schematic https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32_E
 <img src="https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01_pinout.jpg">
 
 
+--------
+
 
 # Arduino IDE WT32-ETH01 ino files  on  this github
 ---------
+things to try
+
+test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2c rotary encoder)
+
+- get some more i/o
+- i2c PCF8574 i/o expander  https://www.google.com/search?q=PCF8574+IO+expander
+- PCF8574 rotary encoder https://youtu.be/GqKjo0lKVVk
+
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-wired-google.com-test.ino
 
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-wired-webserver-dhcp.ino
 
+- example i2c connection == Done & tested 
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-i2c-BME280-DS3231.ino
 
+- test example howto connect i2c and SD card reader/writer
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/not-tested-code/sdcard-i2c-bme280-ds3231-wt32-eth01.ino
 
 -----------
@@ -115,19 +127,6 @@ Less Wires => power over ethernet cable is not included on WT32-ETH01, but you c
 3 Euro PoE power over ethernet splitter 5v  https://www.google.com/search?q=PoE+splitter+5v
 
 
---------
-
-things to try
-
-example i2c connection == Done & tested 
-
-test example howto connect SD card reader/writer
-
-test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2c rotary encoder)
-
-- get some more i/o
-- i2c PCF8574 i/o expander  https://www.google.com/search?q=PCF8574+IO+expander
-- PCF8574 rotary encoder https://youtu.be/GqKjo0lKVVk
 
 -----------------
 
