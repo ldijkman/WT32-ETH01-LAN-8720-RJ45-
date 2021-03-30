@@ -2,6 +2,7 @@
 
 WT32-ETH01 +/-7 Dollar ESP32 with Ethernet jack https://www.google.com/search?q=WT32-ETH01
 
+_ Buy it from manufacturer 1 piece or a gazillion
 http://www.wireless-tag.com/portfolio/wt32-eth01/
 -----------
 
