@@ -5,8 +5,8 @@
 
 - Buy it from manufacturer
 - 1 Piece or a Gazillion
--- http://www.wireless-tag.com/portfolio/wt32-eth01/
--- https://wireless-tag.en.alibaba.com/
+- - http://www.wireless-tag.com/portfolio/wt32-eth01/
+- - https://wireless-tag.en.alibaba.com/
 
 -----------
 
