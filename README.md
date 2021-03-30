@@ -126,7 +126,7 @@ test example howto connect SD card reader/writer
 test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2c rotary encoder)
 
 - get some more i/o
-- i2c pcf8574 i/o expander 
+- i2c pcf8574 i/o expander  https://www.google.com/search?q=pcf8574
   https://youtu.be/GqKjo0lKVVk
 
 -----------------
