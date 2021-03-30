@@ -19,7 +19,7 @@ my FTDI programmer is not always succesfull with programming = i used board 'ESP
 
 strange another same FTDI programmer is doing better with programming https://www.google.com/search?q=FTDI+programmer
 
-NOW using a ESP-01 / ESP8266-01 female 8pin/2row  programmer with ch340 chip https://www.google.com/search?q=ESP-01+ch340G
+NOW using a ESP-01 / ESP8266-01 female 8pin/2row  programmer with ch340 chip https://www.google.com/search?q=ESP-01+CH340G
 
 
 
