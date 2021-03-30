@@ -99,8 +99,12 @@ test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2
 - i2c PCF8574 i/o expander  https://www.google.com/search?q=PCF8574+IO+expander
 - PCF8574 rotary encoder https://youtu.be/GqKjo0lKVVk
 
+- Arduino IDE examples
+
+- connect to google.com and display HTML source of google.com on serial monitor
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-wired-google.com-test.ino
 
+- example DHCP webserver with AJAX
 https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-wired-webserver-dhcp.ino
 
 - example i2c connection == Done & tested 
