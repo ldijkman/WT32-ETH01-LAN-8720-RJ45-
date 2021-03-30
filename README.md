@@ -37,9 +37,8 @@ programming mode = better put a resistor in IO0 to ground?
 
 programming mode = better put a resistor in IO0 to ground?
 
-If someone programs gpio0 as output and high when connected to ground blows the gpio0 pin
+If someone programs gpio0 as output and high when connected to ground blows the gpio0 pin?
 
-So thats why its better to use a resistor on gpio0 pull to ground
 
 --------------
 
