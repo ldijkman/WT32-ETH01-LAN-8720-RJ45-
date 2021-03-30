@@ -105,7 +105,7 @@ test a rotary encoder, maybe use the 3 input only pins? (or maybe make a nano i2
 - connect to google.com and display HTML source of google.com on serial monitor
 - - https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/wt32-eth01-wired-google.com-test.ino
 
-- example DHCP webserver with AJAX
+- example DHCP webserver with AJAX (comment/uncomment a line and static IP also Possible)
 - - https://github.com/ldijkman/WT32-ETH01-LAN-8720-RJ45-/blob/main/WT32-ETH01-wired-webserver-dhcp.ino
 
 - example i2c connection == Done & tested 
